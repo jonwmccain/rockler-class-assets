@@ -1,330 +1,377 @@
-[
-  {
-    "id": "dust-right-40-heavy-duty-shop-vacuum-hose",
-    "title": "Dust Right 40' Heavy-Duty Shop Vacuum Hose",
-    "price": "$124.99",
-    "productUrl": "https://www.rockler.com/dust-right-40-heavy-duty-shop-vacuum-hose-kit",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-40-heavy-duty-shop-vacuum-hose.jpg"
-  },
-  {
-    "id": "dust-right-4-dust-collection-manifold",
-    "title": "Dust Right 4'' Dust Collection Manifold",
-    "price": "$29.99",
-    "productUrl": "https://www.rockler.com/dust-right-4-dust-collection-manifold",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-dust-collection-manifold.jpg"
-  },
-  {
-    "id": "dust-right-4-dust-separator-components-with-free-downloadable-plan",
-    "title": "Dust Right® 4'' Dust Separator Components, with FREE Downloadable Plan!",
-    "price": "$34.99",
-    "productUrl": "https://www.rockler.com/dust-right-4-dust-separator-components",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-cyclones-and-separators",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-dust-separator-components-with-free-downloadable-plan.jpg"
-  },
-  {
-    "id": "dust-right-4-to-4-ready-mount-blast-gate",
-    "title": "Dust Right 4'' to 4'' Ready-Mount Blast Gate",
-    "price": "$9.99",
-    "productUrl": "https://www.rockler.com/dust-right-4-to-4-ready-mount-blast-gate",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-to-4-ready-mount-blast-gate.jpg"
-  },
-  {
-    "id": "dust-right-4-to-4-tool-blast-gate",
-    "title": "Dust Right 4'' to 4'' Tool Blast Gate",
-    "price": "$19.99",
-    "productUrl": "https://www.rockler.com/dust-right-4-to-4-tool-blast-gate",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-to-4-tool-blast-gate.jpg"
-  },
-  {
-    "id": "dust-right-quick-change-4-tool-ports-2-pack",
-    "title": "Dust Right Quick Change 4'' Tool Ports, 2-Pack",
-    "price": "$29.99",
-    "productUrl": "https://www.rockler.com/dust-right-4-tool-ports",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-quick-change-4-tool-ports-2-pack.jpg"
-  },
-  {
-    "id": "dust-right-4-wall-mount-cyclone-dust-separator",
-    "title": "Dust Right 4'' Wall-Mount Cyclone Dust Separator",
-    "price": "$249.99",
-    "productUrl": "https://www.rockler.com/dust-right-4-wall-mount-cyclone-dust-separator",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-cyclones-and-separators",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-wall-mount-cyclone-dust-separator.jpg"
-  },
-  {
-    "id": "dust-right-click-connect-bench-brush-and-dock",
-    "title": "Dust Right Click-Connect Bench Brush and Dock",
-    "price": "$10.99",
-    "productUrl": "https://www.rockler.com/dust-right-click-connect-bench-brush-and-dock",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-click-connect-bench-brush-and-dock.jpg"
-  },
-  {
-    "id": "dust-right-click-connect-flexible-crevice-tool",
-    "title": "Dust Right Click-Connect Flexible Crevice Tool",
-    "price": "$14.99",
-    "productUrl": "https://www.rockler.com/dust-right-click-connect-flexible-crevice-tool",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-click-connect-flexible-crevice-tool.jpg"
-  },
-  {
-    "id": "dust-right-click-connect-needle-nose-crevice-tool",
-    "title": "Dust Right Click-Connect Needle-Nose Crevice Tool",
-    "price": "$10.99",
-    "productUrl": "https://www.rockler.com/dust-right-click-connect-needle-nose-crevice-tool",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-click-connect-needle-nose-crevice-tool.jpg"
-  },
-  {
-    "id": "dust-right-whirlwind-router-dust-extraction-system-with-click-connect",
-    "title": "Dust Right Whirlwind Router Dust Extraction System with Click-Connect",
-    "price": "$39.99",
-    "productUrl": "https://www.rockler.com/dust-right-click-connect-router-dust-port-and-plate",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-whirlwind-router-dust-extraction-system-with-click-connect.jpg"
-  },
-  {
-    "id": "dust-right-compact-ceiling-air-filtration-unit",
-    "title": "Dust Right Compact Ceiling Air Filtration Unit",
-    "price": "$439.99",
-    "productUrl": "https://www.rockler.com/dust-right-compact-ceiling-air-filtration-unit",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-compact-ceiling-air-filtration-unit.jpg"
-  },
-  {
-    "id": "dust-right-downdraft-table",
-    "title": "Dust Right® Downdraft Table",
-    "price": "$144.99",
-    "productUrl": "https://www.rockler.com/dust-right-downdraft-table",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-downdraft-table.jpg"
-  },
-  {
-    "id": "dust-right-dust-hose-and-pipe-cradles-2-12-diameter-2-piece",
-    "title": "Dust Right Dust Hose and Pipe Cradles, 2-1/2'' Diameter, 2-Piece",
-    "price": "$7.99",
-    "productUrl": "https://www.rockler.com/dust-right-dust-hose-and-pipe-cradles-2-1-2-diameter-2-pack",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-dust-hose-and-pipe-cradles-2-12-diameter-2-piece.jpg"
-  },
-  {
-    "id": "dust-right-dust-hose-and-pipe-cradles-4-diameter-2-piece",
-    "title": "Dust Right Dust Hose and Pipe Cradles, 4'' Diameter, 2-Piece",
-    "price": "$10.99",
-    "productUrl": "https://www.rockler.com/dust-right-dust-hose-and-pipe-cradles-4-diameter-2-pack",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-dust-hose-and-pipe-cradles-4-diameter-2-piece.jpg"
-  },
-  {
-    "id": "dust-right-dust-separator-25",
-    "title": "Dust Right Dust Separator 2.5\"",
-    "price": "$119.99",
-    "productUrl": "https://www.rockler.com/dust-right-dust-separator",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-cyclones-and-separators",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-dust-separator-25.jpg"
-  },
-  {
-    "id": "dust-right-flexiport-power-tool-hose-kit-with-click-connect-12-fixed-length-hose",
-    "title": "Dust Right FlexiPort Power Tool Hose Kit with Click-Connect, 12' Fixed-Length Hose",
-    "price": "$69.99",
-    "productUrl": "https://www.rockler.com/dust-right-flexiport-power-tool-hose-kit-with-click-connect-12-fixed-length-hose",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-flexiport-power-tool-hose-kit-with-click-connect-12-fixed-length-hose.jpg"
-  },
-  {
-    "id": "dust-right-flexiport-power-tool-hose-kit-with-click-connect-3-to-12-expandable-hose",
-    "title": "Dust Right FlexiPort Power Tool Hose Kit with Click-Connect, 3' to 12' Expandable Hose",
-    "price": "$34.99",
-    "productUrl": "https://www.rockler.com/dust-right-flexiport-power-tool-hose-kit-with-click-connect-3-to-12-expandable-hose",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-flexiport-power-tool-hose-kit-with-click-connect-3-to-12-expandable-hose.jpg"
-  },
-  {
-    "id": "dust-right-full-size-air-filtration-unit",
-    "title": "Dust Right Full-Size Air Filtration Unit",
-    "price": "$539.99",
-    "productUrl": "https://www.rockler.com/dust-right-full-size-air-filtration-unit",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-full-size-air-filtration-unit.jpg"
-  },
-  {
-    "id": "dust-right-lathe-dust-collection-system",
-    "title": "Dust Right® Lathe Dust Collection System",
-    "price": "$89.99",
-    "productUrl": "https://www.rockler.com/dust-right-lathe-dust-collection-system",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-lathe-dust-collection-system.jpg"
-  },
-  {
-    "id": "dust-right-mountable-dust-hood-14-34-x-11-14-opening",
-    "title": "Dust Right Mountable Dust Hood, 14-3/4'' x 11-1/4'' Opening",
-    "price": "$29.99",
-    "productUrl": "https://www.rockler.com/dust-right-mountable-dust-hood-14-3-4-x-11-1-4-opening",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-mountable-dust-hood-14-34-x-11-14-opening.jpg"
-  },
-  {
-    "id": "dust-right-quick-change-2-12-elbow-tool-port",
-    "title": "Dust Right Quick Change 2-1/2'' Elbow Tool Port",
-    "price": "$12.99",
-    "productUrl": "https://www.rockler.com/dust-right-quick-change-2-1-2-elbow-tool-port",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-quick-change-2-12-elbow-tool-port.jpg"
-  },
-  {
-    "id": "dust-right-2-12-expandable-shop-vacuum-hose-kit",
-    "title": "Dust Right® 2-1/2'' Expandable Shop Vacuum Hose Kit",
-    "price": "$34.99",
-    "productUrl": "https://www.rockler.com/dust-right-reg-2-1-2-expandable-shop-vacuum-hose-kit",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-2-12-expandable-shop-vacuum-hose-kit.jpg"
-  },
-  {
-    "id": "dust-right-quick-change-4-elbow-tool-port",
-    "title": "Dust Right Quick Change 4'' Elbow Tool Port",
-    "price": "$22.99",
-    "productUrl": "https://www.rockler.com/dust-right-reg-quick-connect-4-elbow",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-quick-change-4-elbow-tool-port.jpg"
-  },
-  {
-    "id": "dust-right-router-table-dado-dust-chute",
-    "title": "Dust Right Router Table Dado Dust Chute",
-    "price": "$29.99",
-    "productUrl": "https://www.rockler.com/dust-right-router-table-dado-dust-chute",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-router-table-dado-dust-chute.jpg"
-  },
-  {
-    "id": "dust-right-router-table-dust-bucket-with-dual-port",
-    "title": "Dust Right Router Table Dust Bucket with Dual Port",
-    "price": "$99.99",
-    "productUrl": "https://www.rockler.com/dust-right-router-table-dust-bucket-with-dual-port",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-router-table-dust-bucket-with-dual-port.jpg"
-  },
-  {
-    "id": "dust-right-tool-activated-hepa-dust-extractor",
-    "title": "Dust Right Tool Activated HEPA Dust Extractor",
-    "price": "$299.99",
-    "productUrl": "https://www.rockler.com/dust-right-tool-activated-hepa-dust-extractor",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/shop-vacuums",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-tool-activated-hepa-dust-extractor.jpg"
-  },
-  {
-    "id": "dust-right-vacuum-harness",
-    "title": "Dust Right® Vacuum Harness",
-    "price": "$29.99",
-    "productUrl": "https://www.rockler.com/dust-right-vacuum-harness",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/shop-vacuums",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-vacuum-harness.jpg"
-  },
-  {
-    "id": "replacement-hepa-filter-for-dust-right-hepa-dust-extractor",
-    "title": "Replacement HEPA Filter for Dust Right HEPA Dust Extractor",
-    "price": "$44.99",
-    "productUrl": "https://www.rockler.com/replacement-hepa-filter-for-dust-right-hepa-dust-extractor",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/shop-vacuums",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-hepa-filter-for-dust-right-hepa-dust-extractor.jpg"
-  },
-  {
-    "id": "replacement-inner-pocket-filter-for-dust-right-compact-ceiling-air-filtration-unit",
-    "title": "Replacement Inner Pocket Filter for Dust Right Compact Ceiling Air Filtration Unit",
-    "price": "$44.99",
-    "productUrl": "https://www.rockler.com/replacement-inner-pocket-filter-for-dust-right-compact-ceiling-air-filtration-unit",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-inner-pocket-filter-for-dust-right-compact-ceiling-air-filtration-unit.jpg"
-  },
-  {
-    "id": "replacement-inner-pocket-filter-for-dust-right-full-size-air-filtration-unit",
-    "title": "Replacement Inner Pocket Filter for Dust Right Full-Size Air Filtration Unit",
-    "price": "$54.99",
-    "productUrl": "https://www.rockler.com/replacement-inner-pocket-filter-for-dust-right-full-size-air-filtration-unit",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-inner-pocket-filter-for-dust-right-full-size-air-filtration-unit.jpg"
-  },
-  {
-    "id": "replacement-outer-filter-for-dust-right-full-size-air-filtration-unit",
-    "title": "Replacement Outer Filter for Dust Right Full-Size Air Filtration Unit",
-    "price": "$34.99",
-    "productUrl": "https://www.rockler.com/replacement-outer-filter-for-dust-right-full-size-air-filtration-unit",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-outer-filter-for-dust-right-full-size-air-filtration-unit.jpg"
-  },
-  {
-    "id": "replacement-pre-filter-and-pleated-filter-for-dust-right-compact-ceiling-air-filtration-un",
-    "title": "Replacement Pre-Filter and Pleated Filter for Dust Right Compact Ceiling Air Filtration Unit",
-    "price": "$29.99",
-    "productUrl": "https://www.rockler.com/replacement-pre-filter-and-pleated-filter-for-dust-right-compact-ceiling-air-filtration-unit",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-pre-filter-and-pleated-filter-for-dust-right-compact-ceiling-air-filtration-un.jpg"
-  },
-  {
-    "id": "4-dia-dust-right-hose-2-l-compressed-extends-to-14-l",
-    "title": "4'' Dia. Dust Right® Hose, 2' L Compressed, Extends to 14' L",
-    "price": "$67.99",
-    "productUrl": "https://www.rockler.com/rockler-4-dia-dust-right-hose-2-l-compressed-extends-to-14-l",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/4-dia-dust-right-hose-2-l-compressed-extends-to-14-l.jpg"
-  },
-  {
-    "id": "4-dia-dust-right-hose-3-l-compressed-extends-to-21-l",
-    "title": "4'' Dia. Dust Right® Hose, 3' L Compressed, Extends to 21' L",
-    "price": "$89.99",
-    "productUrl": "https://www.rockler.com/rockler-4-dia-dust-right-hose-3-l-compressed-extends-to-21-l",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/4-dia-dust-right-hose-3-l-compressed-extends-to-21-l.jpg"
-  },
-  {
-    "id": "4-dia-dust-right-hose-4-l-compressed-extends-to-28-l",
-    "title": "4'' Dia. Dust Right® Hose, 4' L Compressed, Extends to 28' L",
-    "price": "$119.99",
-    "productUrl": "https://www.rockler.com/rockler-4-dia-dust-right-hose-4-l-compressed-extends-to-28-l",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/4-dia-dust-right-hose-4-l-compressed-extends-to-28-l.jpg"
-  },
-  {
-    "id": "dust-right-4-quick-change-floor-sweep",
-    "title": "Dust Right® 4'' Quick Change Floor Sweep",
-    "price": "$74.99",
-    "productUrl": "https://www.rockler.com/rockler-dust-right-4-quick-change-floor-sweep",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-quick-change-floor-sweep.jpg"
-  },
-  {
-    "id": "dust-right-4-quick-change-shop-and-tool-set",
-    "title": "Dust Right® 4'' Quick Change Shop and Tool Set",
-    "price": "$79.99",
-    "productUrl": "https://www.rockler.com/rockler-dust-right-4-quick-change-shop-and-tool-set",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-quick-change-shop-and-tool-set.jpg"
-  },
-  {
-    "id": "dust-right-4-quick-change-tool-set",
-    "title": "Dust Right® 4'' Quick Change Tool Set",
-    "price": "$39.99",
-    "productUrl": "https://www.rockler.com/rockler-dust-right-4-quick-change-tool-set",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-quick-change-tool-set.jpg"
-  },
-  {
-    "id": "dust-right-4-quick-change-multi-port-tool-set",
-    "title": "Dust Right 4'' Quick Change Multi-Port Tool Set",
-    "price": "$89.99",
-    "productUrl": "https://www.rockler.com/rockler-dust-right-quick-change-multi-port-tool-set",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-quick-change-multi-port-tool-set.jpg"
-  },
-  {
-    "id": "dust-right-shop-vacuum-hose-reel",
-    "title": "Dust Right Shop Vacuum Hose Reel",
-    "price": "$209.99",
-    "productUrl": "https://www.rockler.com/rockler-dust-right-shop-vacuum-hose-reel",
-    "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
-    "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-shop-vacuum-hose-reel.jpg"
+{
+  "dust_right": {
+    "header": "Dust Right Collection",
+    "heroImageUrl": "https://jonwmccain.github.io/rockler-demo-a...s/images/dust_right/rockler_dust_right_products_combined.png",
+    "products": [
+      {
+        "id": "dust-right-40-heavy-duty-shop-vacuum-hose",
+        "title": "Dust Right® 40' Heavy-Duty Shop Vacuum Hose",
+        "price": "$124.99",
+        "productUrl": "https://www.rockler.com/dust-right-40-heavy-duty-shop-vacuum-hose-kit",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-40-heavy-duty-shop-vacuum-hose.jpg",
+        "desc": "Heavy-duty shop-vac hose kit built for long reach and durability."
+      },
+      {
+        "id": "dust-right-4-dust-collection-manifold",
+        "title": "Dust Right® 4\" Dust Collection Manifold",
+        "price": "$29.99",
+        "productUrl": "https://www.rockler.com/dust-right-4-dust-collection-manifold",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-dust-collection-manifold.jpg",
+        "desc": "Splits one 4\" line into multiple ports for selective hookups."
+      },
+      {
+        "id": "dust-right-4-dust-separator-components-with-free-downloadable-plan",
+        "title": "Dust Right® 4\" Dust Separator Components, with FREE Downloadable Plan!",
+        "price": "$34.99",
+        "productUrl": "https://www.rockler.com/dust-right-4-dust-separator-components",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-cyclones-and-separators",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-dust-separator-components-with-free-downloadable-plan.jpg",
+        "desc": "DIY separator parts kit for building a chip pre-separator."
+      },
+      {
+        "id": "dust-right-4-to-4-ready-mount-blast-gate",
+        "title": "Dust Right® 4\" to 4\" Ready-Mount Blast Gate",
+        "price": "$9.99",
+        "productUrl": "https://www.rockler.com/dust-right-4-to-4-ready-mount-blast-gate",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-to-4-ready-mount-blast-gate.jpg",
+        "desc": "Ready-mount blast gate to shut off or open a 4\" branch."
+      },
+      {
+        "id": "dust-right-4-to-4-tool-blast-gate",
+        "title": "Dust Right® 4\" to 4\" Tool Blast Gate",
+        "price": "$19.99",
+        "productUrl": "https://www.rockler.com/dust-right-4-to-4-tool-blast-gate",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-to-4-tool-blast-gate.jpg",
+        "desc": "Tool-side blast gate for quick airflow control at the machine."
+      },
+      {
+        "id": "dust-right-quick-change-4-tool-ports-2-pack",
+        "title": "Dust Right® Quick Change 4\" Tool Ports, 2-Pack",
+        "price": "$29.99",
+        "productUrl": "https://www.rockler.com/dust-right-4-tool-ports",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-quick-change-4-tool-ports-2-pack.jpg",
+        "desc": "Two quick-change ports for fast tool connections to 4\" hose."
+      },
+      {
+        "id": "dust-right-4-wall-mount-cyclone-dust-separator",
+        "title": "Dust Right® 4\" Wall-Mount Cyclone Dust Separator",
+        "price": "$249.99",
+        "productUrl": "https://www.rockler.com/dust-right-4-wall-mount-cyclone-dust-separator",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-cyclones-and-separators",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-wall-mount-cyclone-dust-separator.jpg",
+        "desc": "Wall-mounted cyclone that drops chips before they hit the filter."
+      },
+      {
+        "id": "dust-right-click-connect-bench-brush-and-dock",
+        "title": "Dust Right® Click-Connect Bench Brush and Dock",
+        "price": "$10.99",
+        "productUrl": "https://www.rockler.com/dust-right-click-connect-bench-brush-and-dock",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-click-connect-bench-brush-and-dock.jpg",
+        "desc": "Bench brush with dock for quick cleanup and easy storage."
+      },
+      {
+        "id": "dust-right-click-connect-flexible-crevice-tool",
+        "title": "Dust Right® Click-Connect Flexible Crevice Tool",
+        "price": "$14.99",
+        "productUrl": "https://www.rockler.com/dust-right-click-connect-flexible-crevice-tool",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-click-connect-flexible-crevice-tool.jpg",
+        "desc": "Flexible crevice nozzle for cleaning tight, awkward spaces."
+      },
+      {
+        "id": "dust-right-click-connect-needle-nose-crevice-tool",
+        "title": "Dust Right® Click-Connect Needle-Nose Crevice Tool",
+        "price": "$10.99",
+        "productUrl": "https://www.rockler.com/dust-right-click-connect-needle-nose-crevice-tool",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-click-connect-needle-nose-crevice-tool.jpg",
+        "desc": "Extra-slim crevice nozzle for narrow gaps and corners."
+      },
+      {
+        "id": "dust-right-whirlwind-router-dust-extraction-system-with-click-connect",
+        "title": "Dust Right® Whirlwind Router Dust Extraction System with Click-Connect",
+        "price": "$39.99",
+        "productUrl": "https://www.rockler.com/dust-right-click-connect-router-dust-port-and-plate",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-whirlwind-router-dust-extraction-system-with-click-connect.jpg",
+        "desc": "Router dust port and plate setup for cleaner routing sessions."
+      },
+      {
+        "id": "dust-right-compact-ceiling-air-filtration-unit",
+        "title": "Dust Right® Compact Ceiling Air Filtration Unit",
+        "price": "$439.99",
+        "productUrl": "https://www.rockler.com/dust-right-compact-ceiling-air-filtration-unit",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-compact-ceiling-air-filtration-unit.jpg",
+        "desc": "Compact ceiling air cleaner to reduce airborne dust in small shops. (compact)"
+      },
+      {
+        "id": "dust-right-downdraft-table",
+        "title": "Dust Right® Downdraft Table",
+        "price": "$144.99",
+        "productUrl": "https://www.rockler.com/dust-right-downdraft-table",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-downdraft-table.jpg",
+        "desc": "Downdraft tabletop that pulls sanding dust down into collection."
+      },
+      {
+        "id": "dust-right-dust-hose-and-pipe-cradles-2-12-diameter-2-piece",
+        "title": "Dust Right® Dust Hose and Pipe Cradles, 2-1/2\" Diameter, 2-Piece",
+        "price": "$7.99",
+        "productUrl": "https://www.rockler.com/dust-right-dust-hose-and-pipe-cradles-2-1-2-diameter-2-pack",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-dust-hose-and-pipe-cradles-2-12-diameter-2-piece.jpg",
+        "desc": "Two-piece cradles sized for 2-1/2\" hose runs and routing."
+      },
+      {
+        "id": "dust-right-dust-hose-and-pipe-cradles-4-diameter-2-piece",
+        "title": "Dust Right® Dust Hose and Pipe Cradles, 4\" Diameter, 2-Piece",
+        "price": "$10.99",
+        "productUrl": "https://www.rockler.com/dust-right-dust-hose-and-pipe-cradles-4-diameter-2-pack",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-dust-hose-and-pipe-cradles-4-diameter-2-piece.jpg",
+        "desc": "Two-piece cradles sized for 4\" hose runs and routing."
+      },
+      {
+        "id": "dust-right-dust-separator-25",
+        "title": "Dust Right® Dust Separator 2.5\"",
+        "price": "$119.99",
+        "productUrl": "https://www.rockler.com/dust-right-dust-separator",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-cyclones-and-separators",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-dust-separator-25.jpg",
+        "desc": "2.5\" cyclone separator to keep chips out of your shop-vac filter."
+      },
+      {
+        "id": "dust-right-flexiport-power-tool-hose-kit-with-click-connect-12-fixed-length-hose",
+        "title": "Dust Right® FlexiPort Power Tool Hose Kit with Click-Connect, 12' Fixed-Length Hose",
+        "price": "$69.99",
+        "productUrl": "https://www.rockler.com/dust-right-flexiport-power-tool-hose-kit-with-click-connect-12-fixed-length-hose",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-flexiport-power-tool-hose-kit-with-click-connect-12-fixed-length-hose.jpg",
+        "desc": "12' fixed hose kit for small tool ports with Click-Connect."
+      },
+      {
+        "id": "dust-right-flexiport-power-tool-hose-kit-with-click-connect-3-to-12-expandable-hose",
+        "title": "Dust Right® FlexiPort Power Tool Hose Kit with Click-Connect, 3' to 12' Expandable Hose",
+        "price": "$34.99",
+        "productUrl": "https://www.rockler.com/dust-right-flexiport-power-tool-hose-kit-with-click-connect-3-to-12-expandable-hose",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-flexiport-power-tool-hose-kit-with-click-connect-3-to-12-expandable-hose.jpg",
+        "desc": "Expandable 3'–12' hose kit for small tool ports with Click-Connect."
+      },
+      {
+        "id": "dust-right-full-size-air-filtration-unit",
+        "title": "Dust Right® Full-Size Air Filtration Unit",
+        "price": "$539.99",
+        "productUrl": "https://www.rockler.com/dust-right-full-size-air-filtration-unit",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-full-size-air-filtration-unit.jpg",
+        "desc": "Full-size ceiling air cleaner for stronger shop-wide filtration. (full-size)"
+      },
+      {
+        "id": "dust-right-lathe-dust-collection-system",
+        "title": "Dust Right® Lathe Dust Collection System",
+        "price": "$89.99",
+        "productUrl": "https://www.rockler.com/dust-right-lathe-dust-collection-system",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-lathe-dust-collection-system.jpg",
+        "desc": "Adjustable lathe pickup to capture dust and chips near the work."
+      },
+      {
+        "id": "dust-right-mountable-dust-hood-14-34-x-11-14-opening",
+        "title": "Dust Right® Mountable Dust Hood, 14-3/4\" x 11-1/4\" Opening",
+        "price": "$29.99",
+        "productUrl": "https://www.rockler.com/dust-right-mountable-dust-hood-14-3-4-x-11-1-4-opening",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-mountable-dust-hood-14-34-x-11-14-opening.jpg",
+        "desc": "Mountable pickup hood to capture dust at a sanding or tool station."
+      },
+      {
+        "id": "dust-right-quick-change-2-12-elbow-tool-port",
+        "title": "Dust Right® Quick Change 2-1/2\" Elbow Tool Port",
+        "price": "$12.99",
+        "productUrl": "https://www.rockler.com/dust-right-quick-change-2-1-2-elbow-tool-port",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-quick-change-2-12-elbow-tool-port.jpg",
+        "desc": "2-1/2\" elbow port to route a hose connection in tight spaces."
+      },
+      {
+        "id": "dust-right-2-12-expandable-shop-vacuum-hose-kit",
+        "title": "Dust Right® 2-1/2\" Expandable Shop Vacuum Hose Kit",
+        "price": "$34.99",
+        "productUrl": "https://www.rockler.com/dust-right-reg-2-1-2-expandable-shop-vacuum-hose-kit",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-2-12-expandable-shop-vacuum-hose-kit.jpg",
+        "desc": "Expandable 2-1/2\" shop-vac kit that stretches out and stores compact."
+      },
+      {
+        "id": "dust-right-quick-change-4-elbow-tool-port",
+        "title": "Dust Right® Quick Change 4\" Elbow Tool Port",
+        "price": "$22.99",
+        "productUrl": "https://www.rockler.com/dust-right-reg-quick-connect-4-elbow",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-quick-change-4-elbow-tool-port.jpg",
+        "desc": "4\" elbow port to route a hose connection around obstructions."
+      },
+      {
+        "id": "dust-right-router-table-dado-dust-chute",
+        "title": "Dust Right® Router Table Dado Dust Chute",
+        "price": "$29.99",
+        "productUrl": "https://www.rockler.com/dust-right-router-table-dado-dust-chute",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-router-table-dado-dust-chute.jpg",
+        "desc": "Under-table chute to capture chips when cutting dados on a router table."
+      },
+      {
+        "id": "dust-right-router-table-dust-bucket-with-dual-port",
+        "title": "Dust Right® Router Table Dust Bucket with Dual Port",
+        "price": "$99.99",
+        "productUrl": "https://www.rockler.com/dust-right-router-table-dust-bucket-with-dual-port",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/special-application-dust-collection",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-router-table-dust-bucket-with-dual-port.jpg",
+        "desc": "Enclosed router-table bucket with dual ports for better debris capture."
+      },
+      {
+        "id": "dust-right-tool-activated-hepa-dust-extractor",
+        "title": "Dust Right® Tool Activated HEPA Dust Extractor",
+        "price": "$299.99",
+        "productUrl": "https://www.rockler.com/dust-right-tool-activated-hepa-dust-extractor",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/shop-vacuums",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-tool-activated-hepa-dust-extractor.jpg",
+        "desc": "Tool-activated HEPA extractor for capturing fine dust at the source."
+      },
+      {
+        "id": "dust-right-vacuum-harness",
+        "title": "Dust Right® Vacuum Harness",
+        "price": "$29.99",
+        "productUrl": "https://www.rockler.com/dust-right-vacuum-harness",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/shop-vacuums",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-vacuum-harness.jpg",
+        "desc": "Wearable harness to support and carry a shop vacuum while you work."
+      },
+      {
+        "id": "replacement-hepa-filter-for-dust-right-hepa-dust-extractor",
+        "title": "Replacement HEPA Filter for Dust Right® HEPA Dust Extractor",
+        "price": "$44.99",
+        "productUrl": "https://www.rockler.com/replacement-hepa-filter-for-dust-right-hepa-dust-extractor",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/shop-vacuums",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-hepa-filter-for-dust-right-hepa-dust-extractor.jpg",
+        "desc": "Replacement HEPA filter to restore filtration performance."
+      },
+      {
+        "id": "replacement-inner-pocket-filter-for-dust-right-compact-ceiling-air-filtration-unit",
+        "title": "Replacement Inner Pocket Filter for Dust Right® Compact Ceiling Air Filtration Unit",
+        "price": "$44.99",
+        "productUrl": "https://www.rockler.com/replacement-inner-pocket-filter-for-dust-right-compact-ceiling-air-filtration-unit",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-inner-pocket-filter-for-dust-right-compact-ceiling-air-filtration-unit.jpg",
+        "desc": "Compact ceiling air cleaner to reduce airborne dust in small shops. (compact)"
+      },
+      {
+        "id": "replacement-inner-pocket-filter-for-dust-right-full-size-air-filtration-unit",
+        "title": "Replacement Inner Pocket Filter for Dust Right® Full-Size Air Filtration Unit",
+        "price": "$54.99",
+        "productUrl": "https://www.rockler.com/replacement-inner-pocket-filter-for-dust-right-full-size-air-filtration-unit",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-inner-pocket-filter-for-dust-right-full-size-air-filtration-unit.jpg",
+        "desc": "Full-size ceiling air cleaner for stronger shop-wide filtration. (full-size)"
+      },
+      {
+        "id": "replacement-outer-filter-for-dust-right-full-size-air-filtration-unit",
+        "title": "Replacement Outer Filter for Dust Right® Full-Size Air Filtration Unit",
+        "price": "$34.99",
+        "productUrl": "https://www.rockler.com/replacement-outer-filter-for-dust-right-full-size-air-filtration-unit",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-outer-filter-for-dust-right-full-size-air-filtration-unit.jpg",
+        "desc": "Full-size ceiling air cleaner for stronger shop-wide filtration. (full-size)"
+      },
+      {
+        "id": "replacement-pre-filter-and-pleated-filter-for-dust-right-compact-ceiling-air-filtration-un",
+        "title": "Replacement Pre-Filter and Pleated Filter for Dust Right® Compact Ceiling Air Filtration Unit",
+        "price": "$29.99",
+        "productUrl": "https://www.rockler.com/replacement-pre-filter-and-pleated-filter-for-dust-right-compact-ceiling-air-filtration-unit",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/air-filtration",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/replacement-pre-filter-and-pleated-filter-for-dust-right-compact-ceiling-air-filtration-un.jpg",
+        "desc": "Compact ceiling air cleaner to reduce airborne dust in small shops. (compact)"
+      },
+      {
+        "id": "4-dia-dust-right-hose-2-l-compressed-extends-to-14-l",
+        "title": "4\" Dia. Dust Right® Hose, 2' L Compressed, Extends to 14' L",
+        "price": "$67.99",
+        "productUrl": "https://www.rockler.com/rockler-4-dia-dust-right-hose-2-l-compressed-extends-to-14-l",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/4-dia-dust-right-hose-2-l-compressed-extends-to-14-l.jpg",
+        "desc": "4\" expandable hose: 2' compressed to 14' extended."
+      },
+      {
+        "id": "4-dia-dust-right-hose-3-l-compressed-extends-to-21-l",
+        "title": "4\" Dia. Dust Right® Hose, 3' L Compressed, Extends to 21' L",
+        "price": "$89.99",
+        "productUrl": "https://www.rockler.com/rockler-4-dia-dust-right-hose-3-l-compressed-extends-to-21-l",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/4-dia-dust-right-hose-3-l-compressed-extends-to-21-l.jpg",
+        "desc": "4\" expandable hose: 3' compressed to 21' extended."
+      },
+      {
+        "id": "4-dia-dust-right-hose-4-l-compressed-extends-to-28-l",
+        "title": "4\" Dia. Dust Right® Hose, 4' L Compressed, Extends to 28' L",
+        "price": "$119.99",
+        "productUrl": "https://www.rockler.com/rockler-4-dia-dust-right-hose-4-l-compressed-extends-to-28-l",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/4-dia-dust-right-hose-4-l-compressed-extends-to-28-l.jpg",
+        "desc": "4\" expandable hose: 4' compressed to 28' extended."
+      },
+      {
+        "id": "dust-right-4-quick-change-floor-sweep",
+        "title": "Dust Right® 4\" Quick Change Floor Sweep",
+        "price": "$74.99",
+        "productUrl": "https://www.rockler.com/rockler-dust-right-4-quick-change-floor-sweep",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-quick-change-floor-sweep.jpg",
+        "desc": "Quick-change floor sweep to vacuum debris through your 4\" system."
+      },
+      {
+        "id": "dust-right-4-quick-change-shop-and-tool-set",
+        "title": "Dust Right® 4\" Quick Change Shop and Tool Set",
+        "price": "$79.99",
+        "productUrl": "https://www.rockler.com/rockler-dust-right-4-quick-change-shop-and-tool-set",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-quick-change-shop-and-tool-set.jpg",
+        "desc": "Quick-change starter set for both cleanup tools and machine ports."
+      },
+      {
+        "id": "dust-right-4-quick-change-tool-set",
+        "title": "Dust Right® 4\" Quick Change Tool Set",
+        "price": "$39.99",
+        "productUrl": "https://www.rockler.com/rockler-dust-right-4-quick-change-tool-set",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-quick-change-tool-set.jpg",
+        "desc": "Quick-change fittings set for fast swaps between tools and hoses."
+      },
+      {
+        "id": "dust-right-4-quick-change-multi-port-tool-set",
+        "title": "Dust Right® 4\" Quick Change Multi-Port Tool Set",
+        "price": "$89.99",
+        "productUrl": "https://www.rockler.com/rockler-dust-right-quick-change-multi-port-tool-set",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-4-quick-change-multi-port-tool-set.jpg",
+        "desc": "Multi-port quick-change set to connect several tools to one line."
+      },
+      {
+        "id": "dust-right-shop-vacuum-hose-reel",
+        "title": "Dust Right® Shop Vacuum Hose Reel",
+        "price": "$209.99",
+        "productUrl": "https://www.rockler.com/rockler-dust-right-shop-vacuum-hose-reel",
+        "sourcePage": "https://www.rockler.com/power-tools/dust-collection/dust-collection-fittings",
+        "image": "https://jonwmccain.github.io/rockler-demo-assets/images/dust_right/dust-right-shop-vacuum-hose-reel.jpg",
+        "desc": "Hose reel for tidy storage and quick pull-out shop-vac access."
+      }
+    ]
   }
-]
+}
